@@ -1,0 +1,31 @@
+.container {
+  width: 80rem;
+  height: 30rem;
+
+  display: flex;
+  gap: 2rem;
+
+  /* background-color: #e9ca02b9; */
+  border-radius: 1rem;
+
+  margin: 2rem auto;
+  padding: 2rem;
+}
+
+.img {
+  width: 550px;
+  border: 8px solid black;
+  box-shadow: 0 24px 32px -16px #000000e6;
+}
+
+.contentText h1 {
+  text-align: center;
+}
+
+.contentText p {
+  font-size: 1.1rem;
+  line-height: 1.5;
+
+  text-align: justify;
+  margin-top: 2rem;
+}
